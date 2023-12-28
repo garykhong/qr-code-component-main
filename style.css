@@ -19,7 +19,7 @@
   .container {
     margin: 0 auto;
     width: 80%;
-    max-width: 600px;
+    max-width: 300px;
     text-align: center;
     background-color: hsl(0, 0%, 100%);
     padding: 1.1em;
@@ -47,7 +47,7 @@
     color: hsl(200, 3%, 47%);
   }
 
-  @media screen and (min-width: 500px) {
+  /*@media screen and (min-width: 500px) {
     .heading {
       font-size: 2.5em;        
     }
@@ -56,7 +56,7 @@
       font-size: 2.1em;        
     }
 
-  }
+  }*/
 
   .qrCode {
     border-radius: 20px;
